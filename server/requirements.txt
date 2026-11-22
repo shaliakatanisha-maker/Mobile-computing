@@ -1,0 +1,3 @@
+# Server requirements
+# The server is built with standard Python 3 library (http.server, ssl, socket, json).
+# No external pip packages are mandatory to run server.py!

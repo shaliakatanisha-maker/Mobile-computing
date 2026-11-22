@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500" style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif;">
+<text x="400.0" y="32" text-anchor="middle" font-size="18" font-weight="bold" fill="#1F2937">Figure 1: Huawei GR5 Wi-Fi Latency: Morning vs Lunchtime</text>
+<line x1="80" y1="440.0" x2="640" y2="440.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="444.0" text-anchor="end" font-size="12" fill="#6B7280">0</text>
+<line x1="80" y1="364.0" x2="640" y2="364.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="368.0" text-anchor="end" font-size="12" fill="#6B7280">22</text>
+<line x1="80" y1="288.0" x2="640" y2="288.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="292.0" text-anchor="end" font-size="12" fill="#6B7280">44</text>
+<line x1="80" y1="212.0" x2="640" y2="212.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="216.0" text-anchor="end" font-size="12" fill="#6B7280">66</text>
+<line x1="80" y1="136.0" x2="640" y2="136.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="140.0" text-anchor="end" font-size="12" fill="#6B7280">88</text>
+<line x1="80" y1="60.0" x2="640" y2="60.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="68" y="64.0" text-anchor="end" font-size="12" fill="#6B7280">110</text>
+<text x="24" y="250.0" text-anchor="middle" font-size="13" font-weight="600" fill="#374151" transform="rotate(-90 24 250.0)">Response Time / RTT (ms)</text>
+<text x="136.0" y="465" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">P1 (Court)</text>
+<rect x="94.0" y="211.06727272727272" width="42.0" height="228.93272727272728" fill="#2563EB" rx="3" />
+<text x="115.0" y="206.06727272727272" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">66.3</text>
+<rect x="140.2" y="113.99454545454546" width="42.0" height="326.00545454545454" fill="#DC2626" rx="3" />
+<text x="161.2" y="108.99454545454546" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">94.4</text>
+<text x="248.0" y="465" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">P2 (Canteen)</text>
+<rect x="206.0" y="259.5690909090909" width="42.0" height="180.4309090909091" fill="#2563EB" rx="3" />
+<text x="227.0" y="254.5690909090909" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">52.2</text>
+<rect x="252.2" y="160.5272727272727" width="42.0" height="279.4727272727273" fill="#DC2626" rx="3" />
+<text x="273.2" y="155.5272727272727" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">80.9</text>
+<text x="360.0" y="465" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">P3 (Entrance)</text>
+<rect x="318.0" y="299.33090909090913" width="42.0" height="140.6690909090909" fill="#2563EB" rx="3" />
+<text x="339.0" y="294.33090909090913" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">40.7</text>
+<rect x="364.2" y="279.84727272727275" width="42.0" height="160.15272727272728" fill="#DC2626" rx="3" />
+<text x="385.2" y="274.84727272727275" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">46.4</text>
+<text x="472.0" y="465" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">P4 (Corridor)</text>
+<rect x="430.0" y="268.6890909090909" width="42.0" height="171.3109090909091" fill="#2563EB" rx="3" />
+<text x="451.0" y="263.6890909090909" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">49.6</text>
+<rect x="476.2" y="271.5909090909091" width="42.0" height="168.4090909090909" fill="#DC2626" rx="3" />
+<text x="497.2" y="266.5909090909091" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">48.8</text>
+<text x="584.0" y="465" text-anchor="middle" font-size="13" font-weight="600" fill="#374151">P5 (Lab)</text>
+<rect x="542.0" y="322.58" width="42.0" height="117.42" fill="#2563EB" rx="3" />
+<text x="563.0" y="317.58" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">34.0</text>
+<rect x="588.2" y="330.2490909090909" width="42.0" height="109.75090909090909" fill="#DC2626" rx="3" />
+<text x="609.2" y="325.2490909090909" text-anchor="middle" font-size="10" font-weight="600" fill="#1F2937">31.8</text>
+<line x1="80" y1="440" x2="640" y2="440" stroke="#9CA3AF" stroke-width="1.5" />
+<rect x="660" y="80" width="14" height="14" fill="#2563EB" rx="2" />
+<text x="682" y="91" font-size="12" fill="#374151">Morning (09:00-10:00)</text>
+<rect x="660" y="106" width="14" height="14" fill="#DC2626" rx="2" />
+<text x="682" y="117" font-size="12" fill="#374151">Lunchtime (12:15-13:15)</text>
+</svg>

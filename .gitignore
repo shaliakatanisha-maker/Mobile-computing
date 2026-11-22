@@ -1,0 +1,60 @@
+# ==========================================
+# Android / Gradle / Kotlin Build Artifacts
+# ==========================================
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+build/
+.gradle/
+local.properties
+captures/
+*.jks
+*.keystore
+
+# Android Studio / IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.navigation/
+.cxx/
+.externalNativeBuild/
+
+# ==========================================
+# Python (Server & Data Analysis Scripts)
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ==========================================
+# macOS System Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ==========================================
+# Tunneling / Environment Secrets
+# ==========================================
+.env
+*.log
+ngrok.yml

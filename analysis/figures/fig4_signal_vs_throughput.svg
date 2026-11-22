@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="480" viewBox="0 0 750 480" style="background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif;">
+<text x="375.0" y="32" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F2937">Figure 4: Wi-Fi Signal Strength (RSSI dBm) vs Download Speed (Mbps)</text>
+<line x1="70" y1="420.0" x2="600" y2="420.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="424.0" text-anchor="end" font-size="11" fill="#6B7280">0</text>
+<line x1="70" y1="348.0" x2="600" y2="348.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="352.0" text-anchor="end" font-size="11" fill="#6B7280">15</text>
+<line x1="70" y1="276.0" x2="600" y2="276.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="280.0" text-anchor="end" font-size="11" fill="#6B7280">30</text>
+<line x1="70" y1="204.0" x2="600" y2="204.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="208.0" text-anchor="end" font-size="11" fill="#6B7280">45</text>
+<line x1="70" y1="132.0" x2="600" y2="132.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="136.0" text-anchor="end" font-size="11" fill="#6B7280">60</text>
+<line x1="70" y1="60.0" x2="600" y2="60.0" stroke="#E5E7EB" stroke-width="1" />
+<text x="60" y="64.0" text-anchor="end" font-size="11" fill="#6B7280">75</text>
+<line x1="70.0" y1="60" x2="70.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="70.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-95</text>
+<line x1="176.0" y1="60" x2="176.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="176.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-84</text>
+<line x1="282.0" y1="60" x2="282.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="282.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-73</text>
+<line x1="388.0" y1="60" x2="388.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="388.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-62</text>
+<line x1="494.0" y1="60" x2="494.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="494.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-51</text>
+<line x1="600.0" y1="60" x2="600.0" y2="420" stroke="#E5E7EB" stroke-width="1" />
+<text x="600.0" y="440" text-anchor="middle" font-size="11" fill="#6B7280">-40</text>
+<text x="22" y="240.0" text-anchor="middle" font-size="12" font-weight="600" fill="#374151" transform="rotate(-90 22 240.0)">Download Speed (Mbps)</text>
+<text x="335.0" y="462" text-anchor="middle" font-size="12" font-weight="600" fill="#374151">Signal Strength (RSSI in dBm)</text>
+<circle cx="222.25454545454542" cy="389.616" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="202.01818181818186" cy="366.1488" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="321.50909090909084" cy="357.5424" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="360.0545454545454" cy="319.6608" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="352.3454545454545" cy="331.7664" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="423.6545454545455" cy="279.8976" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="233.8181818181818" cy="369.5952" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="345.59999999999997" cy="281.57759999999996" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="431.3636363636363" cy="326.28000000000003" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="513.2727272727273" cy="265.44960000000003" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="224.1818181818182" cy="403.4496" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="211.65454545454548" cy="375.9168" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="300.30909090909097" cy="377.8704" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="338.85454545454553" cy="340.8144" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="332.1090909090909" cy="363.9024" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="415.94545454545454" cy="303.8976" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="254.0545454545454" cy="377.2272" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="298.3818181818182" cy="287.976" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="446.7818181818182" cy="333.6432" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="515.2" cy="242.95680000000002" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="229.9636363636363" cy="338.7024" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="210.69090909090903" cy="374.544" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="298.3818181818182" cy="284.448" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="269.4727272727273" cy="377.7984" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="372.58181818181816" cy="275.544" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="315.72727272727275" cy="348.264" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="344.6363636363636" cy="313.42560000000003" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="293.5636363636364" cy="363.8112" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="540.2545454545455" cy="251.9952" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="457.38181818181823" cy="309.5712" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="190.45454545454544" cy="363.81600000000003" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="187.5636363636364" cy="389.784" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="360.0545454545454" cy="332.6448" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="300.30909090909097" cy="389.3568" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="358.1272727272728" cy="291.75840000000005" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="307.0545454545454" cy="338.2944" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="286.81818181818187" cy="284.7072" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="263.69090909090903" cy="371.8992" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="529.6545454545455" cy="275.976" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="457.38181818181823" cy="338.3376" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="197.20000000000005" cy="349.47839999999997" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="158.65454545454548" cy="390.3888" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="375.4727272727273" cy="299.4528" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="260.79999999999995" cy="375.88800000000003" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="416.90909090909093" cy="269.23199999999997" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="303.20000000000005" cy="355.32" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="331.14545454545447" cy="281.03999999999996" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="308.01818181818186" cy="369.2832" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="500.74545454545455" cy="250.7136" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="470.8727272727273" cy="314.34720000000004" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="229.0" cy="377.8464" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="139.3818181818182" cy="389.9664" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="381.2545454545454" cy="358.4496" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="256.9454545454546" cy="375.8592" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="408.23636363636365" cy="289.7616" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="346.56363636363636" cy="362.8032" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="287.78181818181815" cy="303.0432" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="273.32727272727266" cy="354.8832" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="540.2545454545455" cy="254.1312" r="4.5" fill="#10B981" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="495.92727272727274" cy="334.368" r="4.5" fill="#2563EB" fill-opacity="0.8" stroke="#ffffff" stroke-width="1" />
+<circle cx="620" cy="80" r="5" fill="#2563EB" />
+<text x="632" y="84" font-size="12" fill="#374151">Huawei GR5</text>
+<circle cx="620" cy="106" r="5" fill="#10B981" />
+<text x="632" y="110" font-size="12" fill="#374151">Xiaomi Pad 6</text>
+</svg>
